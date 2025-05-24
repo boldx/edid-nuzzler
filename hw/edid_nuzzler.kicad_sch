@@ -6375,6 +6375,86 @@
 		)
 		(uuid "ff25cd18-77c9-4915-893f-ee83dccca804")
 	)
+	(label "D0-"
+		(at 52.07 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "12d2566a-1a88-4f0a-adab-9f25e7e85567")
+	)
+	(label "CK+"
+		(at 52.07 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "261e2714-6313-43a2-aaee-3cccebfec85d")
+	)
+	(label "CK-"
+		(at 52.07 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "370c91de-6de1-4aaa-981b-bdb81b3f5f2b")
+	)
+	(label "D1-"
+		(at 52.07 35.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3afae130-14ff-49d5-80ad-f157528edb22")
+	)
+	(label "D2-"
+		(at 52.07 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c1a05e0-6f80-470f-b1d4-00692b102035")
+	)
+	(label "D2+"
+		(at 52.07 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e012afdb-89d7-43a9-96d7-739f8330cd19")
+	)
+	(label "D0+"
+		(at 52.07 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f1ff8c97-55b6-4cc7-beba-ef60d002dbda")
+	)
+	(label "D1+"
+		(at 52.07 33.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa981b13-9190-4a52-b994-328c56c3580a")
+	)
 	(symbol
 		(lib_id "power:GND")
 		(at 255.27 104.14 0)
@@ -8177,7 +8257,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 133.35 0)
 			(effects
 				(font
@@ -8186,7 +8266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 102.87 132.08 0)
 			(effects
 				(font
@@ -8995,7 +9075,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 130.81 0)
 			(effects
 				(font
@@ -9004,7 +9084,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 102.87 129.54 0)
 			(effects
 				(font
@@ -9128,7 +9208,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 128.27 0)
 			(effects
 				(font
@@ -9137,7 +9217,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 102.87 127 0)
 			(effects
 				(font
@@ -9925,7 +10005,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 76.2 138.43 0)
 			(effects
 				(font
@@ -9934,7 +10014,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 72.39 137.16 0)
 			(effects
 				(font
@@ -10058,7 +10138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 76.2 140.97 0)
 			(effects
 				(font
@@ -10067,7 +10147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 72.39 139.7 0)
 			(effects
 				(font
@@ -10191,7 +10271,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 76.2 133.35 0)
 			(effects
 				(font
@@ -10200,7 +10280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 72.39 132.08 0)
 			(effects
 				(font
@@ -10490,7 +10570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
 			(at 72.39 127 0)
 			(effects
 				(font
@@ -10686,7 +10766,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 146.05 0)
 			(effects
 				(font
@@ -10695,7 +10775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 102.87 144.78 0)
 			(effects
 				(font
@@ -10976,7 +11056,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 76.2 125.73 0)
 			(effects
 				(font
@@ -10985,7 +11065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 72.39 124.46 0)
 			(effects
 				(font
@@ -11369,7 +11449,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 143.51 0)
 			(effects
 				(font
@@ -11378,7 +11458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 102.87 142.24 0)
 			(effects
 				(font
@@ -11557,7 +11637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
 			(at 72.39 129.54 0)
 			(effects
 				(font
@@ -11685,7 +11765,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 125.73 0)
 			(effects
 				(font
@@ -11694,7 +11774,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 92.71 124.46 0)
 			(effects
 				(font
@@ -11827,7 +11907,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D1.5mm_Drill0.7mm"
 			(at 72.39 134.62 0)
 			(effects
 				(font
@@ -12017,7 +12097,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "pad"
 			(at 99.06 135.89 0)
 			(effects
 				(font
@@ -12026,7 +12106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "nuzzler:Pin_tight"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 102.87 134.62 0)
 			(effects
 				(font

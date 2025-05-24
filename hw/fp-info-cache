@@ -1,4 +1,4 @@
-24601512922843663
+24605009058543964
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98965,6 +98965,20 @@ Varistor VF
 0
 2
 2
+nuzzler
+PinHeader_1x03_P2.54mm_Vertical_Tight
+Through hole straight pin header, 1x03, 2.54mm pitch, single row
+Through hole pin header THT 1x03 2.54mm single row
+0
+3
+3
+nuzzler
+Pin_tight
+solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
+solder Pin_ with flat fork
+0
+1
+1
 nuzzler
 SW_XKB_TS-1101-C-W
 Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE7.pdf
