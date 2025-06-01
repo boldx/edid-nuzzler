@@ -1,4 +1,4 @@
-24605009058543964
+24605009059492841
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98974,8 +98974,8 @@ Through hole pin header THT 1x03 2.54mm single row
 3
 nuzzler
 Pin_tight
-solder Pin_ with flat fork, hole diameter 0.7mm, length 6.5mm, width 1.8mm
-solder Pin_ with flat fork
+
+
 0
 1
 1
