@@ -1,3 +1,4 @@
 *-backups
 *.lck
 fab/gerbers.zip
+**/_autosave*
