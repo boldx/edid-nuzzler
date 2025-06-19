@@ -1,4 +1,5 @@
 *-backups
 *.lck
-fab/gerbers.zip
+hw/fab/gerbers.zip
+hw/fab/panel.zip
 **/_autosave*
