@@ -3,3 +3,8 @@
 hw/fab/gerbers.zip
 hw/fab/panel.zip
 **/_autosave*
+fw/**/*.bin
+fw/**/*.hex
+fw/**/*.elf
+fw/**/*.lst
+fw/**/*.map
